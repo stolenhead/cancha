@@ -1,0 +1,56 @@
+.padre{
+	background-color:#8CB27C;
+	width: 815px;
+	height: 530px;
+	padding-top: 20px;
+	padding-right:10px;
+	padding-bottom: 3px;
+	padding-left: 20px;
+	margin: -5px;
+}
+.bloquea{
+	box-sizing: border-box;
+	border: 1px solid white;
+	position: absolute;
+	width: 800px;
+	height: 500px;
+	background-color:#8CB27C;
+}
+.bloque{
+	position: absolute;
+	width: 150px;
+	height: 200px;
+	border: 1px solid white;
+}
+.bloque1{
+	position: absolute;
+	left: 0px;
+	top:150px;
+}
+.bloque2{
+	position: absolute;
+	right: 0px;
+	top:150px;
+}
+.bloque3{
+	position: absolute;
+	right:305px;
+	top:150px;
+	border-radius:130px;
+	width: 200px
+}
+.bola1{
+	position: absolute;
+	top:150px;
+	left:150px;
+}
+.bola2{
+	position:absolute;
+	top:85px;
+	left:380px
+}
+.bola3{
+	position:absolute;
+	bottom: 155px;
+	right: 155px;
+}
